@@ -6,6 +6,8 @@
 * Chrome Browser Canary build 
 * Sublime Text 2
 * Google App Engine SDK Launcher app for Python
+* TextEdit
+* Preview app
 
 - - -
 
